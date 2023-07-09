@@ -1,0 +1,9 @@
+make the laser look better 
+laser no se ve
+make a canvas for win and lose
+make the game not start until the player count  sea igual a 2
+worldspace canvas con los datos de los players y q se actualizen en tiempo real
+screenshake cuando dispara
+particulas de disparo
+feedback de daño 
+wincondition
